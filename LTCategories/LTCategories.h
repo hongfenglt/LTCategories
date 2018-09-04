@@ -23,7 +23,9 @@ FOUNDATION_EXPORT const unsigned char LTCategoriesVersionString[];
 #import "LTCategories/NSString+LTSafe.h"
 #import "LTCategories/NSArray+LTSafe.h"
 #import "LTCategories/NSDictionary+LTSafe.h"
+
 #else
+
 #import "UIView+LTFrame.h"
 #import "UIView+LTGestureCallbackValues.h"
 #import "UIButton+LTAdd.h"
