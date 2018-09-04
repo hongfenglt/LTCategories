@@ -12,31 +12,27 @@
 FOUNDATION_EXPORT double LTCategoriesVersionNumber;
 // Project version string for LTCategories.
 FOUNDATION_EXPORT const unsigned char LTCategoriesVersionString[];
-
 #import <LTCategories/UIView+LTFrame.h>
 #import <LTCategories/UIView+LTGestureCallbackValues.h>
-#improt <LTCategories/UIButton+LTAdd.h>
+#import <LTCategories/UIButton+LTAdd.h>
 #import <LTCategories/UIWindow+LTAdd.h>
-#improt <LTCategories/NSString+LTAdd.h>
-#improt <LTCategories/NSString+LTSize.h>
-#improt <LTCategories/UIView+LTAdd.h>
+#import <LTCategories/NSString+LTAdd.h>
+#import <LTCategories/NSString+LTSize.h>
+#import <LTCategories/UIView+LTAdd.h>
 #import <LTCategories/UIFont+LTAdd.h>
-
 #import "LTCategories/NSString+LTSafe.h"
 #import "LTCategories/NSArray+LTSafe.h"
-#improt "LTCategories/NSDictionary+LTSafe.h"
-
+#import "LTCategories/NSDictionary+LTSafe.h"
 #else
 #import "UIView+LTFrame.h"
 #import "UIView+LTGestureCallbackValues.h"
-#improt "UIButton+LTAdd.h"
+#import "UIButton+LTAdd.h"
 #import "UIWindow+LTAdd.h"
-#improt "NSString+LTAdd.h"
-#improt "NSString+LTSize.h"
-#improt "UIView+LTAdd.h"
+#import "NSString+LTAdd.h"
+#import "NSString+LTSize.h"
+#import "UIView+LTAdd.h"
 #import "UIFont+LTAdd.h"
-
 #import "NSString+LTSafe.h"
 #import "NSArray+LTSafe.h"
-#improt "NSDictionary+LTSafe.h"
+#import "NSDictionary+LTSafe.h"
 #endif
