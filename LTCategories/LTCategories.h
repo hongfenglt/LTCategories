@@ -18,7 +18,7 @@ FOUNDATION_EXPORT const unsigned char LTCategoriesVersionString[];
 #import <LTCategories/UIWindow+LTAdd.h>
 #import <LTCategories/NSString+LTAdd.h>
 #import <LTCategories/NSString+LTSize.h>
-#import <LTCategories/UIView+LTAdd.h>
+#import <LTCategories/UIColor+LTAdd.h>
 #import <LTCategories/UIFont+LTAdd.h>
 #import "LTCategories/NSString+LTSafe.h"
 #import "LTCategories/NSArray+LTSafe.h"
@@ -32,7 +32,7 @@ FOUNDATION_EXPORT const unsigned char LTCategoriesVersionString[];
 #import "UIWindow+LTAdd.h"
 #import "NSString+LTAdd.h"
 #import "NSString+LTSize.h"
-#import "UIView+LTAdd.h"
+#import "UIColor+LTAdd.h"
 #import "UIFont+LTAdd.h"
 #import "NSString+LTSafe.h"
 #import "NSArray+LTSafe.h"

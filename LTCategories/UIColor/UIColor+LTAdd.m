@@ -1,14 +1,14 @@
 //
-//  UIView+LTAdd.m
+//  UIColor+LTAdd.m
 //  LTCatrgory
 //
-//  Created by 洪峰 on 2018/9/4.
+//  Created by 洪峰 on 2018/9/6.
 //  Copyright © 2018年 洪峰. All rights reserved.
 //
 
-#import "UIView+LTAdd.h"
+#import "UIColor+LTAdd.h"
 
-@implementation UIView (LTAdd)
+@implementation UIColor (LTAdd)
 
 + (UIColor *)RandomColor {
     NSInteger aRedValue = arc4random() % 255;
