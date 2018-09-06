@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "LTCategories"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "LTCategories(iOS-Categories,Category)."
 
   s.description  = "LTCategories(iOS-Categories,Category) Use for iOS Project"
